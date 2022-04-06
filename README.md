@@ -1,6 +1,6 @@
 # ImageAPI-iOS
 
-The practice of parsing data from the API, API - was used by the site Unsplash.com. In this project, there are two buttons that, when clicked, will change the image and text accordingly. Pictures are taken randomly from the API.
+iOS(Storyboard) with auto-layout, constraints. The practice of parsing data from the API, API - was used by the site Unsplash.com. In this project, there are two buttons that, when clicked, will change the image and text accordingly. Pictures are taken randomly from the API.
 
 ### Screenshots
 
